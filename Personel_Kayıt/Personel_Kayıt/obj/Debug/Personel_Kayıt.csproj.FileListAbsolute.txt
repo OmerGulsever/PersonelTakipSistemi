@@ -1,0 +1,151 @@
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe.config
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.pdb
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Properties.Resources.resources
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.exe
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.pdb
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmStatıstıcs.resources
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmAnaForm.resources
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmGraphics.resources
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmGiris.resources
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\EnvDTE.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\stdole.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmReports.resources
+C:\Users\Win10\Desktop\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.CopyComplete
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe.config
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.exe
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Personel_Kayıt.pdb
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\EnvDTE.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\stdole.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmAnaForm.resources
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmGraphics.resources
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmReports.resources
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.frmStatıstıcs.resources
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.Properties.Resources.resources
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.csproj.CopyComplete
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.exe
+C:\Users\Win10\Desktop\DERS UYGULAMA\c# uygulamalar\Personel_Kayıt\Personel_Kayıt\obj\Debug\Personel_Kayıt.pdb
